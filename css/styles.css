@@ -1,0 +1,49 @@
+body {
+    font-family: Helvetica, sans-serif;
+    font-size: 1em;
+    background-color: #f1de09;
+    width:100%;
+    margin: 0;
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 7em;
+    line-height:100%;
+    margin-block-start: 0;
+    hyphens:auto;
+}
+
+.feature-image img {
+    height:auto;
+    width:50%;
+    position:fixed;  
+        right:0;
+            z-index: 1;
+
+
+
+}
+
+.feature-image {
+    text-align:right;
+
+}
+
+.left-column {
+    width: calc(50% - 0px);
+    float:left;
+    display: inline-block;
+}
+
+.right-column {
+    width:50%;
+    float:right;
+    display: inline-block;
+}
+
+.manifesto {
+    display:inline-block;
+    padding: 5% 10% 5% 30%;
+    background-color:white;
+}
