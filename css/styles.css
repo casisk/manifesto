@@ -12,6 +12,7 @@ h1 {
     line-height:100%;
     margin-block-start: 0;
     hyphens:auto;
+    color:blue;
 }
 
 .feature-image img {
